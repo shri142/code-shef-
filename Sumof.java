@@ -1,0 +1,17 @@
+import java.util.*;
+class Sumof{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+       int n = sc.nextInt();
+        for(int i=0;i<n;i++){
+            int a = sc.nextInt();
+            int sumof = 0 ;
+            while(a>0){
+            int temp = a%10;
+            sumof +=temp;
+            a/=10;
+            }
+            System.out.println(sumof);
+        }
+    }
+}
