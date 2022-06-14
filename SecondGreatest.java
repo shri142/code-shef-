@@ -1,5 +1,16 @@
 //check why aint running
+//even with this logic
 
+//                if(a<b && b<c){
+// 	            System.out.print(b);
+// 	        }
+// 	        else if(b<a && a<c){
+// 	            System.out.print(a);
+// 	        }
+// 	        else{
+// 	            System.out.print(c);
+// 	        }
+	       
 import java.util.*;
 import java.lang.*;
 import java.io.*;
