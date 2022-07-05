@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-
+//use function if you want to use break and continue in nested loop
 /* Name of the class has to be "Main" only if the class is public. */
 class MinFlip
 {
